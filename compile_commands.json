@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anton/Developer/Projects/localization/object-localization",
+  "command": "/usr/bin/g++    -Wall -g3 -gdwarf-2   -std=c++11 -o CMakeFiles/particle_filter.dir/src/particle_filter.cpp.o -c /home/anton/Developer/Projects/localization/object-localization/src/particle_filter.cpp",
+  "file": "/home/anton/Developer/Projects/localization/object-localization/src/particle_filter.cpp"
+},
+{
+  "directory": "/home/anton/Developer/Projects/localization/object-localization",
+  "command": "/usr/bin/g++    -Wall -g3 -gdwarf-2   -std=c++11 -o CMakeFiles/particle_filter.dir/src/main.cpp.o -c /home/anton/Developer/Projects/localization/object-localization/src/main.cpp",
+  "file": "/home/anton/Developer/Projects/localization/object-localization/src/main.cpp"
+}
+]

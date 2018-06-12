@@ -1,0 +1,13 @@
+Scanning dependencies of target particle_filter
+[ 33%] Building CXX object CMakeFiles/particle_filter.dir/src/particle_filter.cpp.o
+/home/anton/Developer/Projects/localization/object-localization/src/particle_filter.cpp: In member function ‘Particle ParticleFilter::SetAssociations(Particle&, const std::vector<int>&, const std::vector<double>&, const std::vector<double>&)’:
+/home/anton/Developer/Projects/localization/object-localization/src/particle_filter.cpp:78:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+[ 66%] Building CXX object CMakeFiles/particle_filter.dir/src/main.cpp.o
+/home/anton/Developer/Projects/localization/object-localization/src/main.cpp: In lambda function:
+/home/anton/Developer/Projects/localization/object-localization/src/main.cpp:105:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+          for(int i = 0; i < x_sense.size(); i++)
+                         ~~^~~~~~~~~~~~~~~~
+[100%] Linking CXX executable particle_filter
+[100%] Built target particle_filter
